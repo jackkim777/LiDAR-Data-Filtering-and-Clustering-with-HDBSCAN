@@ -1,0 +1,5 @@
+<launch>
+    <node name="cone_node" pkg="cone" type="main.py" output="screen">
+        <!-- 필요한 매개변수가 있으면 여기서 정의 -->
+    </node>
+</launch>
